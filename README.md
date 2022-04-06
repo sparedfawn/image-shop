@@ -6,4 +6,5 @@ Application fetches list of images from api and displays them in a grid. User is
 - React Router
 - custom useHover hook
 - Context API
+- PropTypes
 - css display grid
